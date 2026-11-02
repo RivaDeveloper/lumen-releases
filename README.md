@@ -59,7 +59,7 @@ A 2-minute guided tour with music that zooms in on each feature: notifications, 
     <td><img src="media/skip-intro.jpg" alt="Skip intro button"><br><b>Skip intro</b><br>From the episode's chapters, AniSkip for anime, or what you skipped before.</td>
   </tr>
   <tr>
-    <td><img src="media/next-episode.jpg" alt="Next episode card"><br><b>Next episode</b><br>At the credits, the next episode starts by itself with the same kind of source and your languages.</td>
+    <td><img src="media/player.jpg" alt="The player"><br><b>The player</b><br>Clean controls, sound fixed on the fly, and the next episode starts by itself at the credits with the same kind of source and your languages.</td>
     <td><img src="media/watch-together.jpg" alt="Watch together"><br><b>Watch together</b><br>Share a 6-letter code and friends with Lumen watch in sync.</td>
   </tr>
   <tr>
