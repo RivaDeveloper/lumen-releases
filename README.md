@@ -8,11 +8,11 @@
 Bring your own addons and your Real-Debrid account. Lumen turns them into a home screen you'll actually enjoy.
 
 
-[![Latest release](https://img.shields.io/github/v/release/MrSlappy/lumen-releases?label=latest&color=ff2e55)](https://github.com/MrSlappy/lumen-releases/releases/latest)
-[![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/lumen-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/MrSlappy/lumen-releases/total?color=8b6bff)](https://github.com/MrSlappy/lumen-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/RivaDeveloper/lumen-releases?label=latest&color=ff2e55)](https://github.com/RivaDeveloper/lumen-releases/releases/latest)
+[![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/RivaDeveloper/lumen-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/RivaDeveloper/lumen-releases/total?color=8b6bff)](https://github.com/RivaDeveloper/lumen-releases/releases)
 
-**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/lumen-releases/releases/latest)** · [Android](https://getlumen.pages.dev) · [getlumen.pages.dev](https://getlumen.pages.dev)
+**[⬇ Download Lumen for Windows](https://github.com/RivaDeveloper/lumen-releases/releases/latest)** · [Android](https://getlumen.pages.dev/android/) · [Samsung TV](https://getlumen.pages.dev/tv/) · [getlumen.pages.dev](https://getlumen.pages.dev)
 
 <img src="media/home.jpg" alt="Lumen home screen" width="100%">
 
@@ -31,9 +31,9 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 ## See it in action
 
-<a href="https://getlumen.pages.dev/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 3:24 tour of Lumen" width="100%"></a>
+<a href="https://getlumen.pages.dev/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2-minute tour of Lumen" width="100%"></a>
 
-A 3:24 guided tour with music that zooms in on each feature: notifications, Top 10, cast and sources, episodes, the Anime tab and its airing calendar, search, the player and its languages, profiles, skip intro, next episode, Watch together, anime progress in Library, themes and Get addons. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/lumen-releases/raw/main/media/lumen-showcase.mp4).
+A 2-minute guided tour with music that zooms in on each feature: notifications, Top 10, cast and sources, episodes, the Anime tab and its airing calendar, search, the player and its languages, profiles, skip intro, next episode, Watch together, anime progress in Library, themes and Get addons. Tap the picture to play it in your browser, or [download the video](https://github.com/RivaDeveloper/lumen-releases/raw/main/media/lumen-showcase.mp4).
 
 ## A look around
 
@@ -63,7 +63,7 @@ A 3:24 guided tour with music that zooms in on each feature: notifications, Top 
     <td><img src="media/watch-together.jpg" alt="Watch together"><br><b>Watch together</b><br>Share a 6-letter code and friends with Lumen watch in sync.</td>
   </tr>
   <tr>
-    <td><img src="media/settings.jpg" alt="Themes in Settings"><br><b>Make it yours</b><br>Six color themes, neon, glass and corner styles per profile, and menus in five languages.</td>
+    <td><img src="media/settings.jpg" alt="Themes in Settings"><br><b>Make it yours</b><br>15 color themes, neon, glass and corner styles per profile, and menus in five languages.</td>
     <td><img src="media/addons.jpg" alt="Get addons"><br><b>Get addons</b><br>Popular addons ready to add. Ones with settings open their setup page right inside Lumen.</td>
   </tr>
   <tr>
@@ -73,6 +73,19 @@ A 3:24 guided tour with music that zooms in on each feature: notifications, Top 
 </table>
 
 <sub>Screenshots use a demo catalog with made-up titles and artwork. Lumen shows whatever your own addons provide.</sub>
+
+## Lumen on your phone
+
+<table>
+  <tr>
+    <td width="25%"><img src="media/phone-home.jpg" alt="Home on Android"></td>
+    <td width="25%"><img src="media/phone-detail.jpg" alt="Title page on Android"></td>
+    <td width="25%"><img src="media/phone-episodes.jpg" alt="Episodes on Android"></td>
+    <td width="25%"><img src="media/phone-anime.jpg" alt="Anime on Android"></td>
+  </tr>
+</table>
+
+The Android app is the same Lumen, built for touch. Get it from the [Android page](https://getlumen.pages.dev/android/). It also runs on Samsung TVs ([details](https://getlumen.pages.dev/tv/)).
 
 ## All the features
 
@@ -94,8 +107,9 @@ A 3:24 guided tour with music that zooms in on each feature: notifications, Top 
 | 🌍 **Languages** | Pick any audio track in the file, subtitles from the file (picture subtitles included) or from OpenSubtitles, three sizes, auto-select your language |
 | ⏱️ **Timing** | Shift subtitles or sound in 0.1 s steps when they're out of sync |
 | ⏭️ **Binge mode** | Skip intro / recap / credits (from chapters, AniSkip, or learned from you), next-episode countdown, remembered source per show |
+| 💬 **Discord status** | Optional: show on your Discord profile what you're watching, or that you're browsing. Windows only, off on kids profiles, and you can hide it in Settings |
 | 🍿 **Watch together** | Share a 6-letter room code; play, pause and jumps stay in sync, everyone plays from their own sources |
-| 🎨 **Looks** | Six color themes, neon, ambient light, glass and corner styles per profile, menus in five languages, Light mode for low-power laptops |
+| 🎨 **Looks** | 15 color themes, neon, ambient light, glass and corner styles per profile, menus in five languages, Light mode for low-power laptops |
 | ✂️ **Clips** | Save the last 15, 30 or 60 seconds as an MP4, or a full-resolution still (HDR converted to normal color) |
 | 📺 **Play on TV** | Send what you're watching to the Lumen channel on a Roku |
 | 👥 **Profiles** | Separate history, list and settings per person, custom avatars, kids profiles with an age limit and a parent PIN |
@@ -105,7 +119,7 @@ A 3:24 guided tour with music that zooms in on each feature: notifications, Top 
 
 ## Install
 
-1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/lumen-releases/releases/latest). On an ARM PC (Snapdragon / Copilot+ laptops), take **`Lumen-Setup-x.y.z-arm64.exe`** instead.
+1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/RivaDeveloper/lumen-releases/releases/latest). On an ARM PC (Snapdragon / Copilot+ laptops), take **`Lumen-Setup-x.y.z-arm64.exe`** instead.
 2. Run it. Windows SmartScreen may say *"Windows protected your PC"* because the app isn't code-signed yet. Choose **More info → Run anyway**.
 3. Open Lumen, go to **Addons** and paste the link of the addons you use, then **Settings → Link Real-Debrid** if you have an account.
 
@@ -136,11 +150,15 @@ Lumen detects Dolby/DTS sound and fixes it automatically. If a file still won't 
 **Does it phone home?**
 No tracking. Lumen talks to your addons, the services you connect (Real-Debrid, TorBox, Easynews), OpenSubtitles (if installed), TMDB and AniList for genres, anime and age ratings, and this GitHub page to check for updates. An account is optional: if you sign in, your saved data is stored in your account so it can sync, with your addon links encrypted by a PIN only you know.
 
+## Support, privacy and terms
+
+Lumen is free. If you'd like to help, there's a quiet [Support Lumen](https://buymeacoffee.com/rivadev) link in Settings and on the website. It's never required. Read the [privacy policy](https://getlumen.pages.dev/privacy/) and the [terms of service](https://getlumen.pages.dev/terms/).
+
 ## Credits and licenses
 
-Lumen is built with [Electron](https://www.electronjs.org/) (MIT) and [hls.js](https://github.com/video-dev/hls.js) (Apache-2.0), with Manrope and Syne fonts (SIL Open Font License).
+Lumen is built with [Electron](https://www.electronjs.org/) (MIT) and [hls.js](https://github.com/video-dev/hls.js) (Apache-2.0), with Manrope and Syne fonts (SIL Open Font License). The tour video uses "Good Vibe" by Infraction.
 It ships an unmodified [FFmpeg](https://ffmpeg.org/) 6.1.1 build from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) via [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static), licensed under the GPL v3; its source code is available from [ffmpeg.org](https://ffmpeg.org/download.html#releases) and the gyan.dev build page.
 
 ---
 
-<div align="center"><sub>Lumen for Windows · made with Electron and FFmpeg · <a href="https://github.com/MrSlappy/lumen-releases/releases">All releases</a></sub></div>
+<div align="center"><sub>Lumen for Windows · made with Electron and FFmpeg · <a href="https://github.com/RivaDeveloper/lumen-releases/releases">All releases</a></sub></div>
