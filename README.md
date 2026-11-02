@@ -72,7 +72,7 @@ A 2-minute guided tour with music that zooms in on each feature: notifications, 
   </tr>
 </table>
 
-<sub>Screenshots use a demo catalog with made-up titles and artwork. Lumen shows whatever your own addons provide.</sub>
+<sub>Screenshots use public catalog data (Cinemeta, TMDB, AniList). The playing film is Sintel, a free Blender Foundation movie. Lumen shows whatever your own addons provide.</sub>
 
 ## Lumen on your phone
 
